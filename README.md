@@ -1,5 +1,7 @@
 ## Code Academy final project / QuizApp
 
+ - Created by: ##Martin Nikolov
+ 
 
 ## Project installation steps
 
