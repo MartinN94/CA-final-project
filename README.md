@@ -1,6 +1,6 @@
 ## Code Academy final project / QuizApp
 
- - Created by: ##Martin Nikolov
+ - Created by: Martin Nikolov, 2021
  
 
 ## Project installation steps
